@@ -11,8 +11,6 @@ Cheet Sheet is an open source Content Management System for developers and devel
 <br/><br/>
 Setting up Cheet Sheet for you or your organization is simple. All you need is Docker, Node and an AWS account. It's 100% Serverless so your costs and infrastructure will automatically grow and shrink based on your needs with minimal effort on your part. ***Read [Getting Started](/docs/getting-started.md)***
 <br/><br/>
-Here is my own instance of the application: https://cheet-sheet.gugz.net/
-<br/><br/>
 If you use the app and like it please leave a star. If you find bugs feel free to submit an issue.
 
 <h1>Features</h1>
